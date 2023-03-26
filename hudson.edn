@@ -1,0 +1,4 @@
+{:name     :violet-city/proxy
+ :registry "10.0.0.2:5000"
+ :aliases  [:server]
+ :main     one.z34.hudson.server}
